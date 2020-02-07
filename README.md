@@ -16,4 +16,7 @@ service apache status
 - Lista
 - lista
 
+
+# Para hospedar um arquivo salve seu arquivo HTML em /var/www/html
+
 [clique aqui](link)
